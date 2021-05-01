@@ -4,4 +4,5 @@ def add(a, b):
 def subtract(a, b):
   return a-b
 
-print ('계산기')
+def multiply(a ,b):
+  return a*b
