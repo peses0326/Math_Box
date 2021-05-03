@@ -2,3 +2,6 @@
 Premium
 - Eunterprise use : 500$ per month
 - Educational use : 105$ per month
+
+def say_hello():
+  print('hello')
