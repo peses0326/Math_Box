@@ -1,3 +1,4 @@
 # 기본 라이센스
 Premium
 - Eunterprise use : 500$ per month
+- Educational use : 105$ per month
